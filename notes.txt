@@ -1,0 +1,6 @@
+Tasks: 
+(Lovely) 
+1. Add simple models (vendor, client, users, etc.) 
+
+(Ishika) 
+1. make simple apis (get the list of all vendors in database? get the list of all clients in database? get the list of all users in database? )
